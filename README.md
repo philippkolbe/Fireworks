@@ -1,3 +1,3 @@
 # Fireworks
 
-A p5.js project with fireworks
+A p5.js project for visualizing fireworks
